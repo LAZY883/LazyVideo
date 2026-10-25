@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "avatar": "avatar.png",
+  "app": {
+    "topTabs": [
+      "团购",
+      "同城",
+      "关注",
+      "商城",
+      "推荐"
+    ],
+    "bottomTabs": [
+      "首页",
+      "朋友",
+      " ",
+      "消息",
+      "我"
+    ],
+    "emptyCommentText": "暂无评论",
+    "commentTitleTpl": "{n}条评论",
+    "trendingPrefix": "大家都在搜："
+  },
+  "videos": [
+    {
+      "id": "v000",
+      "file": "v000.bin",
+      "iv": "9c85a79744edbadc40664cf1d699d221",
+      "size": 5790364,
+      "author": {
+        "name": "@示例作者",
+        "avatar": ""
+      },
+      "caption": "这是一个牛逼的简介",
+      "captionExpanded": false,
+      "trendingSearch": "大家都在搜:",
+      "trendingSearchHighlight": "一加一到底等于几",
+      "stats": {
+        "likes": "11",
+        "favorites": "45",
+        "comments": 14,
+        "shares": "33"
+      },
+      "commentList": [
+        {
+          "username": "用户1",
+          "avatar": "",
+          "content": "牛逼",
+          "date": "8-13",
+          "region": "广东",
+          "dateRegionSep": " · ",
+          "likes": 123,
+          "emoji": []
+        }
+      ]
+    }
+  ]
+}
